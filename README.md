@@ -34,6 +34,8 @@ The system analyzes transaction features such as **amount, account balance, fail
 
 ## 📊 Dashboard
 
+![RiskShield AI Dashboard](dashboard.png)
+
 The dashboard provides:
 
 - Total Transactions
